@@ -1,0 +1,6 @@
+### JetBrains template
+/.idea/
+.project
+.classpath
+/target/
+/*.iml
